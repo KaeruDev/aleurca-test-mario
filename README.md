@@ -60,6 +60,8 @@ Abre en el navegador la URL que indique (generalmente `http://localhost:3001`).
 
 - Intenté que los estilos quedaran de la mejor manera posible sin perder tanto tiempo, se que no se evalua pero es por la descencia (en general los estilos son lo que toma más tiempo para que queden bien). Le metí responsive con Tailwind (etiquetas sm para pantallas chicas y md para medianas).
 
+- Tomando el punto anterior, creo que la pagina se ve mucho mejor en modo responsive, porque es taaan poco contenido que la verdad en pantallas grandes se ve pobre 😅 mil perdones. 
+
 - No quise dockerizar el código del backend porque la verdad es demasiado innecesario siendo pequeño y quería enviar la prueba rápido.
 
 - No hay testing porque no se que cosa se podia probar, probablemente podia haber hecho testing del get para probar(?)
